@@ -24,7 +24,7 @@ Vue.component('list-input', {
     todos: Array
   }
 });
-        
+    
 /* shows checklist length */
 Vue.component('list-stats', {
   template: `
